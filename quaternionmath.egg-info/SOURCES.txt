@@ -1,0 +1,8 @@
+setup.cfg
+setup.py
+quaternionmath/__init__.py
+quaternionmath/main.py
+quaternionmath.egg-info/PKG-INFO
+quaternionmath.egg-info/SOURCES.txt
+quaternionmath.egg-info/dependency_links.txt
+quaternionmath.egg-info/top_level.txt

@@ -1,0 +1,23 @@
+Metadata-Version: 1.1
+Name: quaternionmath
+Version: 1.0.0
+Summary: A simple Python library featuring a"Quaternion" class, for dealing with Quaternion arithmetic.
+Home-page: https://github.com/tobygf/quaternionmath
+Author: Toby Govin-Fowler
+Author-email: ttoobbyyninja@gmail.com
+License: MIT
+Description: 
+        Quaternionmath consists of a "Quaternion" class, which defines the Quaternion
+        (four-dimensional) numbers. The class provides addition, subtraction,
+        multiplication, and division logic, as well as string and representation
+        information.
+        
+Keywords: math quaternion
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Topic :: Scientific/Engineering :: Mathematics
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
